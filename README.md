@@ -14,18 +14,18 @@ Launch your career in DevOps. Master DevOps methodologies and AWS services to de
 
 # Skills
 
-` Continuous Integration `
-` Devops `
-` Monitoring and Logging `
-` Continuous Delivery `
-` Microservices `
-` AWS Identity and Access Management `
-` Networking on AWS `
-` AWS Management Console `
-` Cloud Computing `
-` aws security `
-` Test Automation `
-` AWS cloud `
+` Continuous Integration `  
+` Devops `  
+` Monitoring and Logging `  
+` Continuous Delivery `  
+` Microservices `  
+` AWS Identity and Access Management `  
+` Networking on AWS `  
+` AWS Management Console `  
+` Cloud Computing `  
+` aws security `  
+` Test Automation `  
+` AWS cloud `   
 
 
 # About this Specialization
